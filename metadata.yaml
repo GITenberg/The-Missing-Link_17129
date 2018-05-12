@@ -1,0 +1,28 @@
+_repo: The-Missing-Link_17129
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dyson, Edward
+    alias: Dyson, Edward George
+    birthdate: 1865
+    deathdate: 1931
+    gutenberg_agent_id: '7007'
+    url: http://www.gutenberg.org/2009/agents/7007
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Dyson
+description: ''
+gutenberg_issued: '2005-11-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17129'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Australia -- Fiction'
+title: The Missing Link
+url: http://www.gutenberg.org/ebooks/17129
